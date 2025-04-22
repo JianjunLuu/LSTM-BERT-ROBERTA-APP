@@ -177,7 +177,7 @@ def predict(text, model_name):
 
 # -------------------- DeepSeek 接口 --------------------
 client = OpenAI(
-    api_key="sk-02f85c18644c4cabbcad55f0961122f0",
+    api_key="",
     base_url="https://api.deepseek.com"
 )
 
